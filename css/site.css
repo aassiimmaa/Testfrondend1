@@ -243,3 +243,8 @@ h1{
 	background-color: rgb(42, 110, 1);
 	color: #FFF;
 }
+
+.sign-in input:last-child:hover{
+	cursor: pointer;
+	opacity: 0.8;
+}
